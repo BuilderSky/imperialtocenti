@@ -1,7 +1,7 @@
 # First Website
 ## Imperial to Centimeter Converter
 (This is just a website right now, it does not actually convert measures yet. Sorry!)
-![Jeep]("C:\Users\skyle\Pictures\Saved Pictures\Jeep Clipart.png")
+![Jeep](imperialtocenti/JeepClipart)
 ```markdown
 Syntax highlighted code block
 
