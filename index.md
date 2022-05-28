@@ -2,7 +2,7 @@
 ## Imperial to Centimeter Converter
 (This is just a website right now, it does not actually convert measures yet. Sorry!)
 
-<a href="JeepClipart/png" download="Jeep Clipart">
+<a href="JeepClipart.png" download="Jeep Clipart">
     <img src="JeepClipart.png" alt="Jeep Clipart" width="200"/>
 </a>
 
