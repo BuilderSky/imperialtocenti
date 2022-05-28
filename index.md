@@ -8,14 +8,9 @@
 
 <p>Feel free to take a look at my <a href="https://www.youtube.com/channel/UCeY5jNrEbLARbo-1ddJfVew" target="-blank" rel="noopener noreferrer">YouTube Channel,</a> though!! </p>
 
-[Java Code](Main.java)
-<label for="feet">Feet: (Enter as decimal)</label>
-<input type="number" id="feet" name="feet" value="5">
+<label for="feetnum">Feet: (Enter as decimal)</label>
+<input type="number" id="feetnum" name="feetnum" value="5">
 <input type="submit">
-
-<p>The total is:
-
-</p>
 
 ```markdown
 Syntax highlighted code block
