@@ -1,5 +1,8 @@
 public class Main{
 public static void main(String[] args) {
+    double feetnum;
+    double inchesnum;
+    calcFeetAndInchesToCentimeters(feetnum, inchesnum);
     }
     public static double calcFeetAndInchesToCentimeters(double feet, double inches) {
 
