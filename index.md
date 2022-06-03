@@ -8,6 +8,8 @@
 
 <p>Feel free to take a look at my <a href="https://www.youtube.com/channel/UCeY5jNrEbLARbo-1ddJfVew" target="-blank" rel="noopener noreferrer">YouTube Channel,</a> though!! </p>
 
+<p>This is a test of a new page.... [New Page!](NewPage/newpage.md)</p>
+
 <label for="feetnum">Feet: (Enter as decimal)</label>
 <input type="number" id="feetnum" name="feetnum" value="5">
 <input type="submit">
