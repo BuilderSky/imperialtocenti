@@ -4,8 +4,8 @@
 
 [My README, tho...](README.md)
 
-<a href="JeepClipart.png" download="Jeep Clipart">
-    <img src="JeepClipart.png" alt="Jeep Clipart" width="200"/>
+<a href="Assets/JeepClipart.png" download="Jeep Clipart">
+    <img src="Assets/JeepClipart.png" alt="Jeep Clipart" width="200"/>
 </a>
 
 <p>Feel free to take a look at my <a href="https://www.youtube.com/channel/UCeY5jNrEbLARbo-1ddJfVew" target="-blank" rel="noopener noreferrer">YouTube Channel,</a> though!! </p>
