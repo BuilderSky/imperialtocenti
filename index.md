@@ -2,7 +2,7 @@
 ## Imperial to Centimeter Converter
 (This is just a website right now, it does not actually convert measures yet. Sorry!)
 
-[My README, tho...](README.md)
+[My README, tho...][def]
 
 <a href="Assets/JeepClipart.png" download="Jeep Clipart">
     <img src="Assets/JeepClipart.png" alt="Jeep Clipart" width="200"/>
@@ -35,3 +35,6 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+
+
+[def]: README.html)
